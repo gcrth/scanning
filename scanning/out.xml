@@ -5,357 +5,546 @@
             <number>1</number>
             <value>dsfasd</value>
             <type>identifier</type>
-            <line>1</line>
+            <line>3</line>
             <valid>true</valid>
         </token>
         <token>
             <number>2</number>
             <value>auto</value>
             <type>keyword</type>
-            <line>1</line>
+            <line>3</line>
             <valid>true</valid>
         </token>
         <token>
             <number>3</number>
             <value>a</value>
             <type>identifier</type>
-            <line>1</line>
+            <line>3</line>
             <valid>true</valid>
         </token>
         <token>
             <number>4</number>
             <value>++</value>
             <type>punctuator</type>
-            <line>1</line>
+            <line>3</line>
             <valid>true</valid>
         </token>
         <token>
             <number>5</number>
             <value>int</value>
             <type>keyword</type>
-            <line>1</line>
+            <line>3</line>
             <valid>true</valid>
         </token>
         <token>
             <number>6</number>
             <value>b</value>
             <type>identifier</type>
-            <line>1</line>
+            <line>3</line>
             <valid>true</valid>
         </token>
         <token>
             <number>7</number>
             <value>,</value>
             <type>punctuator</type>
-            <line>1</line>
+            <line>3</line>
             <valid>true</valid>
         </token>
         <token>
             <number>8</number>
             <value>case</value>
             <type>keyword</type>
-            <line>1</line>
+            <line>3</line>
             <valid>true</valid>
         </token>
         <token>
             <number>9</number>
             <value>31212315lu</value>
             <type>constant</type>
-            <line>2</line>
+            <line>4</line>
             <valid>true</valid>
         </token>
         <token>
             <number>10</number>
             <value>01231646557uLL</value>
             <type>constant</type>
-            <line>3</line>
+            <line>5</line>
             <valid>true</valid>
         </token>
         <token>
             <number>11</number>
             <value>0x1515151295adfFllu</value>
             <type>constant</type>
-            <line>4</line>
+            <line>6</line>
             <valid>true</valid>
         </token>
         <token>
             <number>12</number>
             <value>0U</value>
             <type>constant</type>
-            <line>5</line>
+            <line>7</line>
             <valid>true</valid>
         </token>
         <token>
             <number>13</number>
             <value>123u</value>
             <type>constant</type>
-            <line>6</line>
+            <line>8</line>
             <valid>true</valid>
         </token>
         <token>
             <number>14</number>
             <value>31212315</value>
             <type>constant</type>
-            <line>7</line>
+            <line>9</line>
             <valid>true</valid>
         </token>
         <token>
             <number>15</number>
             <value>01231646557</value>
             <type>constant</type>
-            <line>8</line>
+            <line>10</line>
             <valid>true</valid>
         </token>
         <token>
             <number>16</number>
             <value>0x1515151295adfF</value>
             <type>constant</type>
-            <line>9</line>
+            <line>11</line>
             <valid>true</valid>
         </token>
         <token>
             <number>17</number>
             <value>0</value>
             <type>constant</type>
-            <line>10</line>
+            <line>12</line>
             <valid>true</valid>
         </token>
         <token>
             <number>18</number>
             <value>123</value>
             <type>constant</type>
-            <line>11</line>
+            <line>13</line>
             <valid>true</valid>
         </token>
         <token>
             <number>19</number>
-            <value>-</value>
-            <type>punctuator</type>
-            <line>17</line>
+            <value>0.1</value>
+            <type>constant</type>
+            <line>15</line>
             <valid>true</valid>
         </token>
         <token>
             <number>20</number>
-            <value>-&gt;</value>
-            <type>punctuator</type>
-            <line>17</line>
+            <value>0.001</value>
+            <type>constant</type>
+            <line>16</line>
             <valid>true</valid>
         </token>
         <token>
             <number>21</number>
-            <value>--</value>
-            <type>punctuator</type>
+            <value>0.0</value>
+            <type>constant</type>
             <line>17</line>
             <valid>true</valid>
         </token>
         <token>
             <number>22</number>
-            <value>-=</value>
-            <type>punctuator</type>
-            <line>17</line>
+            <value>07.7</value>
+            <type>constant</type>
+            <line>18</line>
             <valid>true</valid>
         </token>
         <token>
             <number>23</number>
-            <value>+</value>
-            <type>punctuator</type>
-            <line>18</line>
+            <value>08.7</value>
+            <type>constant</type>
+            <line>19</line>
             <valid>true</valid>
         </token>
         <token>
             <number>24</number>
-            <value>+=</value>
-            <type>punctuator</type>
-            <line>18</line>
+            <value>1.1</value>
+            <type>constant</type>
+            <line>20</line>
             <valid>true</valid>
         </token>
         <token>
             <number>25</number>
-            <value>++</value>
-            <type>punctuator</type>
-            <line>18</line>
+            <value>.9e8</value>
+            <type>constant</type>
+            <line>21</line>
             <valid>true</valid>
         </token>
         <token>
             <number>26</number>
-            <value>=</value>
-            <type>punctuator</type>
-            <line>19</line>
+            <value>1.2e-7</value>
+            <type>constant</type>
+            <line>22</line>
             <valid>true</valid>
         </token>
         <token>
             <number>27</number>
-            <value>==</value>
-            <type>punctuator</type>
-            <line>19</line>
+            <value>1.4E+7</value>
+            <type>constant</type>
+            <line>23</line>
             <valid>true</valid>
         </token>
         <token>
             <number>28</number>
-            <value>*</value>
-            <type>punctuator</type>
-            <line>20</line>
+            <value>7.8e9</value>
+            <type>constant</type>
+            <line>24</line>
             <valid>true</valid>
         </token>
         <token>
             <number>29</number>
-            <value>*=</value>
-            <type>punctuator</type>
-            <line>20</line>
+            <value>0X0.FFp-6</value>
+            <type>constant</type>
+            <line>26</line>
             <valid>true</valid>
         </token>
         <token>
             <number>30</number>
-            <value>/</value>
-            <type>punctuator</type>
-            <line>21</line>
+            <value>0xafF.1859P-9</value>
+            <type>constant</type>
+            <line>27</line>
             <valid>true</valid>
         </token>
         <token>
             <number>31</number>
-            <value>/=</value>
-            <type>punctuator</type>
-            <line>21</line>
+            <value>0x.9FFp-2</value>
+            <type>constant</type>
+            <line>28</line>
             <valid>true</valid>
         </token>
         <token>
             <number>32</number>
-            <value>%</value>
-            <type>punctuator</type>
-            <line>22</line>
+            <value>&apos;sdafffadsg&apos;</value>
+            <type>constant</type>
+            <line>30</line>
             <valid>true</valid>
         </token>
         <token>
             <number>33</number>
-            <value>%=</value>
-            <type>punctuator</type>
-            <line>22</line>
+            <value>u&apos;585225\\\a&apos;</value>
+            <type>constant</type>
+            <line>31</line>
             <valid>true</valid>
         </token>
         <token>
             <number>34</number>
-            <value>&lt;&lt;</value>
-            <type>punctuator</type>
-            <line>23</line>
+            <value>L&apos;dfasc\&apos;&apos;</value>
+            <type>constant</type>
+            <line>32</line>
             <valid>true</valid>
         </token>
         <token>
             <number>35</number>
-            <value>&lt;&lt;=</value>
-            <type>punctuator</type>
-            <line>23</line>
+            <value>U&apos;asdsc77&apos;</value>
+            <type>constant</type>
+            <line>33</line>
             <valid>true</valid>
         </token>
         <token>
             <number>36</number>
-            <value>&gt;&gt;</value>
-            <type>punctuator</type>
-            <line>24</line>
+            <value>&apos;\n&apos;</value>
+            <type>constant</type>
+            <line>34</line>
             <valid>true</valid>
         </token>
         <token>
             <number>37</number>
-            <value>&gt;&gt;=</value>
-            <type>punctuator</type>
-            <line>24</line>
+            <value>uu</value>
+            <type>identifier</type>
+            <line>36</line>
             <valid>true</valid>
         </token>
         <token>
             <number>38</number>
-            <value>&amp;</value>
-            <type>punctuator</type>
-            <line>25</line>
+            <value>u8</value>
+            <type>identifier</type>
+            <line>37</line>
             <valid>true</valid>
         </token>
         <token>
             <number>39</number>
-            <value>&amp;=</value>
-            <type>punctuator</type>
-            <line>25</line>
+            <value>L</value>
+            <type>identifier</type>
+            <line>38</line>
             <valid>true</valid>
         </token>
         <token>
             <number>40</number>
-            <value>&amp;&amp;</value>
-            <type>punctuator</type>
-            <line>25</line>
+            <value>U</value>
+            <type>identifier</type>
+            <line>39</line>
             <valid>true</valid>
         </token>
         <token>
             <number>41</number>
-            <value>^</value>
-            <type>punctuator</type>
-            <line>26</line>
+            <value>u</value>
+            <type>identifier</type>
+            <line>40</line>
             <valid>true</valid>
         </token>
         <token>
             <number>42</number>
-            <value>^=</value>
-            <type>punctuator</type>
-            <line>26</line>
+            <value>u&quot;dcgfctyivyhvf\ahvhv&quot;</value>
+            <type>string_literal</type>
+            <line>42</line>
             <valid>true</valid>
         </token>
         <token>
             <number>43</number>
-            <value>|</value>
-            <type>punctuator</type>
-            <line>27</line>
+            <value>u8&quot;dfgadfgadf&quot;</value>
+            <type>string_literal</type>
+            <line>43</line>
             <valid>true</valid>
         </token>
         <token>
             <number>44</number>
-            <value>|=</value>
-            <type>punctuator</type>
-            <line>27</line>
+            <value>L&quot;156165sdsa\a&quot;</value>
+            <type>string_literal</type>
+            <line>44</line>
             <valid>true</valid>
         </token>
         <token>
             <number>45</number>
-            <value>||</value>
-            <type>punctuator</type>
-            <line>27</line>
+            <value>&quot;\f&quot;</value>
+            <type>string_literal</type>
+            <line>45</line>
             <valid>true</valid>
         </token>
         <token>
             <number>46</number>
-            <value>&lt;</value>
+            <value>-</value>
             <type>punctuator</type>
-            <line>28</line>
+            <line>47</line>
             <valid>true</valid>
         </token>
         <token>
             <number>47</number>
-            <value>&lt;=</value>
+            <value>-&gt;</value>
             <type>punctuator</type>
-            <line>28</line>
+            <line>47</line>
             <valid>true</valid>
         </token>
         <token>
             <number>48</number>
-            <value>&gt;</value>
+            <value>--</value>
             <type>punctuator</type>
-            <line>29</line>
+            <line>47</line>
             <valid>true</valid>
         </token>
         <token>
             <number>49</number>
-            <value>&gt;=</value>
+            <value>-=</value>
             <type>punctuator</type>
-            <line>29</line>
+            <line>47</line>
             <valid>true</valid>
         </token>
         <token>
             <number>50</number>
-            <value>!</value>
+            <value>+</value>
             <type>punctuator</type>
-            <line>30</line>
+            <line>48</line>
             <valid>true</valid>
         </token>
         <token>
             <number>51</number>
+            <value>+=</value>
+            <type>punctuator</type>
+            <line>48</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>52</number>
+            <value>++</value>
+            <type>punctuator</type>
+            <line>48</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>53</number>
+            <value>=</value>
+            <type>punctuator</type>
+            <line>49</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>54</number>
+            <value>==</value>
+            <type>punctuator</type>
+            <line>49</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>55</number>
+            <value>*</value>
+            <type>punctuator</type>
+            <line>50</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>56</number>
+            <value>*=</value>
+            <type>punctuator</type>
+            <line>50</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>57</number>
+            <value>/</value>
+            <type>punctuator</type>
+            <line>51</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>58</number>
+            <value>/=</value>
+            <type>punctuator</type>
+            <line>51</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>59</number>
+            <value>%</value>
+            <type>punctuator</type>
+            <line>52</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>60</number>
+            <value>%=</value>
+            <type>punctuator</type>
+            <line>52</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>61</number>
+            <value>&lt;&lt;</value>
+            <type>punctuator</type>
+            <line>53</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>62</number>
+            <value>&lt;&lt;=</value>
+            <type>punctuator</type>
+            <line>53</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>63</number>
+            <value>&gt;&gt;</value>
+            <type>punctuator</type>
+            <line>54</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>64</number>
+            <value>&gt;&gt;=</value>
+            <type>punctuator</type>
+            <line>54</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>65</number>
+            <value>&amp;</value>
+            <type>punctuator</type>
+            <line>55</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>66</number>
+            <value>&amp;=</value>
+            <type>punctuator</type>
+            <line>55</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>67</number>
+            <value>&amp;&amp;</value>
+            <type>punctuator</type>
+            <line>55</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>68</number>
+            <value>^</value>
+            <type>punctuator</type>
+            <line>56</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>69</number>
+            <value>^=</value>
+            <type>punctuator</type>
+            <line>56</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>70</number>
+            <value>|</value>
+            <type>punctuator</type>
+            <line>57</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>71</number>
+            <value>|=</value>
+            <type>punctuator</type>
+            <line>57</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>72</number>
+            <value>||</value>
+            <type>punctuator</type>
+            <line>57</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>73</number>
+            <value>&lt;</value>
+            <type>punctuator</type>
+            <line>58</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>74</number>
+            <value>&lt;=</value>
+            <type>punctuator</type>
+            <line>58</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>75</number>
+            <value>&gt;</value>
+            <type>punctuator</type>
+            <line>59</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>76</number>
+            <value>&gt;=</value>
+            <type>punctuator</type>
+            <line>59</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>77</number>
+            <value>!</value>
+            <type>punctuator</type>
+            <line>60</line>
+            <valid>true</valid>
+        </token>
+        <token>
+            <number>78</number>
             <value>!=</value>
             <type>punctuator</type>
-            <line>30</line>
+            <line>60</line>
             <valid>true</valid>
         </token>
     </tokens>
