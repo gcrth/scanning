@@ -18,10 +18,10 @@
     <ClInclude Include="pch.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="tinyxml\tinystr.h">
+    <ClInclude Include="tinystr.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="tinyxml\tinyxml.h">
+    <ClInclude Include="tinyxml.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
@@ -32,16 +32,16 @@
     <ClCompile Include="scanning.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="tinyxml\tinystr.cpp">
+    <ClCompile Include="tinystr.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="tinyxml\tinyxml.cpp">
+    <ClCompile Include="tinyxml.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="tinyxml\tinyxmlerror.cpp">
+    <ClCompile Include="tinyxmlerror.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="tinyxml\tinyxmlparser.cpp">
+    <ClCompile Include="tinyxmlparser.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
